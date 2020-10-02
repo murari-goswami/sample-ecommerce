@@ -1,0 +1,9 @@
+name: murari-projects
+channels:
+    - conda-forge
+    - anaconda
+dependencies:
+    - python >= 3.7
+    - django
+    - pip
+
